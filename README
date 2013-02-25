@@ -18,3 +18,4 @@ IMPORTANT: never run the tests of the client library against a production accoun
 Update kaltura.yml with your account information
 Change directory to kaltura/ruby
 Execute the command: rake test
+
